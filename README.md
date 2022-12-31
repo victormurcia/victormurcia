@@ -2,7 +2,7 @@
 I'm interested in data, science, and programming in all its forms and flavors. I'm particularly passionate about using science and data in a positively actionable way.
 
 I recommend you check out the following repositories:
-1) DFT Clustering - This is one of the main products of my doctoral research. Check out how it is possible to combine the results of first principle (Quantum Mechanics/Density Functional Theory) calculations with experimental synchrotron-based x-ray measurements using machine learning (ML) techniques to get orientational information for molecules of interest in fields like organic electronics and pharmaceutics. 
+1) DFT Clustering - This is one of the main products of my doctoral research. Check out how it is possible to combine the results of first principle (Quantum Mechanics/Density Functional Theory) calculations with experimental synchrotron-based x-ray measurements using machine learning (ML) techniques to get optical and orientational information for molecules of interest in fields like organic electronics and pharmaceuticals. 
 
 2) Making Music From Images - Check out this project I did where I used Python to make songs from pictures! I made an app with Streamlit that you can try out with your own pictures. You can control things like the scale, base note, number of octaves, note duration, the number of pixels to use for the song as well a wide variety of after effects to give your song an even more unique character.
 
