@@ -10,6 +10,6 @@ I graduated with a PhD in Materials Science and Engineering especializing in Com
 
 I also have a B.S. in Chemistry with minors in Mathematics and Philosophy from the Rochester Institute of Technology that I earned in May 2014. 
 
-I currently work as a Data Scientist at the U.S. Department of Veterans Affairs.
+I currently work as a Data Scientist at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC)
 
 I hope you find some of my repos useful and/or interesting! Connect with me on Twitter or LinkedIn
