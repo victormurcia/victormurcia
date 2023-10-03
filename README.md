@@ -1,5 +1,5 @@
 # Hey everyone, I'm Victor!
-I'm interested in data, science, and programming in all its forms and flavors. I'm particularly passionate about using science and data in a positively actionable way. I mostly code in Python and IGOR, but I've done projects where I utilized FORTRAN, JS, C++, and MATLAB.
+I'm interested in data, science, and programming in all its forms and flavors. I'm particularly passionate about using science and data in a positively actionable way. I mostly code in Python and IGOR, but I've done projects where I utilized JS, C++,FORTRAN,Julia,R, and MATLAB.
 
 I recommend you check out the following repositories:
 1) DFT Clustering - This is one of the main products of my doctoral research. Check out how it is possible to combine the results of first principle (Quantum Mechanics/Density Functional Theory) calculations with experimental synchrotron-based x-ray measurements using machine learning (ML) techniques to get optical and orientational information for molecules of interest in fields like organic electronics and pharmaceuticals. 
