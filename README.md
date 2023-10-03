@@ -1,4 +1,7 @@
 # Hey everyone, I'm Victor!
+
+I currently work as a Data Scientist at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC)
+
 I'm interested in data, science, and programming in all its forms and flavors. I'm particularly passionate about using science and data in a positively actionable way. I mostly code in Python and IGOR, but I've done projects where I utilized JS, C++,FORTRAN,Julia,R, and MATLAB.
 
 I recommend you check out the following repositories:
@@ -9,7 +12,5 @@ I recommend you check out the following repositories:
 I graduated with a PhD in Materials Science and Engineering especializing in Computational Physics/Chemistry and Machine Learning/Algorithm Development from Washington State University in August 2022. You can find my dissertation here: https://www.proquest.com/docview/2731807103?pq-origsite=gscholar&fromopenview=true. 
 
 I also have a B.S. in Chemistry with minors in Mathematics and Philosophy from the Rochester Institute of Technology that I earned in May 2014. 
-
-I currently work as a Data Scientist at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC)
 
 I hope you find some of my repos useful and/or interesting! Connect with me on Twitter or LinkedIn
