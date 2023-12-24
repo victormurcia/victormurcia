@@ -40,6 +40,20 @@ I hope you find some of my repos useful and/or interesting! Connect with me on <
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Dask-FC6E6B?logo=dask&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=fff&style=for-the-badge">
+    <img src="![AMD Badge](https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=for-the-badge">
 </p><br>
 
 <div align=center>
