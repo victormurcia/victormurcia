@@ -1,4 +1,4 @@
-![Victor Murcia's GitHub Header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&color=800080&height=300&section=header&text=Victor%20Murcia&fontSize=90&textColor=fdfefe)
+![Victor Murcia's GitHub Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Victor%20Murcia&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 I'm a Data Scientist at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC).
 
