@@ -1,6 +1,6 @@
 ![Victor Murcia's GitHub Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Victor%20Murcia&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-I'm a Data Scientist at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC).
+I'm a Data Scientist and AI Researcher at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC).
 
 I'm interested in data, science, and programming in all its forms and flavors. I'm particularly passionate about using science and data in a positively actionable way. I mostly code in Python and IGOR, but I've done projects where I utilized JS, C++, Perl, FORTRAN, Julia, R, and MATLAB.
 
