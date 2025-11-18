@@ -78,4 +78,7 @@ I hope you find some of my repos useful and/or interesting! Connect with me on <
 <div align=center>
 
 ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victormurcia&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victormurcia&theme=dracula&langs_count=15)](https://github.com/victormurcia/github-readme-stats)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=victormurcia&theme=catppuccin_mocha&area=true&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&line=ca9ee6&area_color=ca9ee6&point=ca9ee6&color=81c8be)
