@@ -2,7 +2,7 @@
 
 I'm currently the Lead AI Engineer at [Datacor](https://www.datacor.com/).
 
-Prior to that, I served as a Data Scientist and AI Researcher at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII) and the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC).
+Prior to that, I served as a Data Scientist and AI Researcher at the U.S. Department of Veterans Affairs within the National Artifical Intelligence Institute (NAII), the Massachusetts Veterans Epidemiology Research and Information Center (MAVERIC) and the Medical Robotics and Computer-Assisted Surgery Lab (MRCAS) at Harvard.
 
 I'm interested in data, science, and programming in all its forms and flavors. I'm particularly passionate about using science and data in a positively actionable way. I mostly code in Python and IGOR, but I've done projects where I utilized JS, C++, Perl, FORTRAN, Julia, R, and MATLAB.
 
