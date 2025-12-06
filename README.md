@@ -80,8 +80,16 @@ I hope you find some of my repos useful and/or interesting! Connect with me on <
 </table>
 <div align=center>
 
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victormurcia&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
+![GitHub Card](https://githubcard.com/victormurcia.svg)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victormurcia&theme=dracula&langs_count=15)](https://github.com/victormurcia/github-readme-stats)
+<img alt="victormurcia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=victormurcia&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
+
+<h3>🔥 Statistics :</h3>
+
+<img alt="Victor's streak" src="http://github-readme-streak-stats.herokuapp.com?user=victormurcia&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/> 
+
+--- 
+
+<img alt="Victor's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=victormurcia&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=victormurcia&theme=catppuccin_mocha&area=true&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&line=ca9ee6&area_color=ca9ee6&point=ca9ee6&color=81c8be)
